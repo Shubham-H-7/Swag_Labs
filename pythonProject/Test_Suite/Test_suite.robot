@@ -5,8 +5,8 @@ Library     SeleniumLibrary
 Login invalid username and password
         Open Browser        https://www.saucedemo.com/       chrome
         Set Browser Implicit Wait       5
-        Input Text          id=user-name                     shubham
-        Input Password      id=password                      1234
+        Input Text          id=user-name                     oviya
+        Input Password      id=password                      1678
         click Button        id=login-button
 
 Login valid username and password
